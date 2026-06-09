@@ -1,4 +1,5 @@
-# python-celery-fun
-This is just my repo for learning how to use python and celery
+# ReadingList
 
-Going through https://medium.com/@channeng/setting-up-a-task-scheduler-application-with-celery-flask-part-1-8652265050dc
+This repository has moved to [Codeberg](https://codeberg.org/ryanvgates/python-celery-fun).
+
+![Codeberg Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Codeberg_logo_horizontal.svg/1920px-Codeberg_logo_horizontal.svg.png?_=20250524183759)
